@@ -10,7 +10,7 @@
   
 Techs that I've used at least once
   
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white) ![](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) ![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) ![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white) ![](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) ![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) ![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white) ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
 ### 👩🏻‍💻 ME 👩🏻‍💻
 
@@ -22,6 +22,8 @@ Techs that I've used at least once
 
 <div align="center">
 
-  [![Hyunji Kim's github stats](https://github-readme-stats.vercel.app/api?username=hyunjikeem&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Hyunji Kim's github stats](https://github-readme-stats.vercel.app/api?username=hyunjikeem&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunjikeem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
   </div>
+
