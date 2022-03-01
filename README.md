@@ -10,8 +10,10 @@
   
 Techs that I've used at least once
   
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white) ![](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) ![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) 
-![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white) ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![](https://img.shields.io/badge/JSONWebTokens-000000?style=flat-square&logo=JSONWebTokens&logoColor=white) ![](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white) 
+
+![](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white) ![](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) ![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) 
+![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)  ![](https://img.shields.io/badge/JSONWebTokens-000000?style=flat-square&logo=JSONWebTokens&logoColor=white) ![](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)
 
 
 ### 👩🏻‍💻 ME 👩🏻‍💻
